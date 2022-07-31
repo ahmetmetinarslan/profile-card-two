@@ -10,5 +10,5 @@ Profile Card<br>
 
 Screenshot<br>
 
-![alt text]()
+![alt text](https://github.com/ahmetmetinarslan/profile-card-two/blob/main/screen.png?raw=true)
 
