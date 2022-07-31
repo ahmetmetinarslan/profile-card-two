@@ -6,6 +6,7 @@ Profile Card<br>
 -In the study, html and css were used.<br>
 -A simple animation has been added to the picture and social media icons.<br>
 -Where the logo is, there is a continuous circular animation.<br>
+-A circular animation occurs when hovering over the social media icons.<br>
 -In this study, support was obtained from https://www.darkcode.info/<br><br>
 
 <hr>
